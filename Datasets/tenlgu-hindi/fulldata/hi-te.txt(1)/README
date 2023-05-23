@@ -1,0 +1,14 @@
+ Corpus Name: WikiMatrix
+     Package: WikiMatrix.hi-te in Moses format
+     Website: http://opus.nlpl.eu/WikiMatrix-v1.php
+     Release: v1
+Release date: Wed Nov  4 16:40:57 EET 2020
+     License: <a href=https://creativecommons.org/licenses/by-sa/4.0/legalcode>CC-BY-SA 4.0</a>
+
+This corpus is part of OPUS - the open collection of parallel corpora
+OPUS Website: http://opus.nlpl.eu
+
+Please, cite the following paper when downloading or using the data: Holger Schwenk, Vishrav Chaudhary, Shuo Sun, Hongyu Gong and Paco Guzman, WikiMatrix: Mining 135M Parallel Sentences in 1620 Language Pairs from Wikipedia, arXiv, July 11 2019.
+
+Parallel corpora from Wikimedia compiled by Facebook Research
+The data is released under the Creative Commons Attribution-ShareAlike

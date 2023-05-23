@@ -1,0 +1,149 @@
+Thử ra khả năng truy cập của ứng dụng
+Bộ Thám hiểm Khả năng Truy cập Accerciser
+Bố trí bổ sung mặc định cho Bảng bên dưới
+Bố trí bổ sung mặc định cho Bảng bên trên
+Danh sách các bổ sung bị tắt theo mặc định
+Khoảng thời gian tô sáng
+Khoảng thời gian trong đó hộp tô sáng còn lại trên màn hình khi chọn nút có thể truy cập được
+Màu viền tô sáng
+Màu và độ mờ đục của viền tô sáng.
+Màu điền vùng tô sáng
+Màu và độ mờ đục của vùng điền tô sáng.
+Bộ duyệt API
+Duyệt qua các phương pháp khác nhau của điều truy cập hiện thời
+Ẩn thuộc tính riêng
+Phương pháp
+Thuộc tính
+Giá trị
+Bàn giao tiếp IPython
+Bàn giao tiếp tương tác để thao tác điều truy cập được chọn hiện thời
+Bộ theo dõi sự kiện
+Th_eo dõi sự kiện
+_Xoá vùng chọn
+Tất cả
+Ứng dụng đã chọn
+Điều truy cập đã chọn:
+Nguồn
+Bộ theo dõi sự kiện
+Hiển thị sự kiện đang xảy ra, từ các kiểu và nguồn đã chọn
+Tô sáng mục sự kiện cuối
+Bắt đầu/dừng thu sự kiện
+Dọn sổ theo dõi sự kiện
+Số đếm con
+không mô tả
+Mô tả
+Tình trạng
+Hiện
+Quan hệ
+Thuộc tính
+T_ruy cập được
+Thực hiện hành động
+_Hành động
+ID
+Bộ công cụ
+Phiên bản
+Ứng _dụng
+Tậ_p hợp
+0, 0
+Vị trí tương đối
+Cỡ
+Ô ĐIỀU KHIỂN
+Lớp
+Thứ tự MDI-Z
+Anfa
+Vị trí tuyệt đối
+Thành _phần
+_Màn hình nền
+Miền địa phương:
+_Tài liệu
+Siêu liên kết
+_Siêu văn bản
+Vị trí
+Mô tả
+Miền địa phương
+Ả_nh
+Bổ trợ đăn_g xuất
+Chọn tất cả
+_Vùng chọn
+Nội dung _luồng được
+Phụ đề
+Tóm tắt:
+Cột đã chọn
+Hàng đã chọn
+Cột
+Hàng
+Thông tin bảng
+tên (x,y)
+Đầu trang:
+Chừng mực:
+Hàng
+Cột
+Ô đã chọn
+_Bảng
+Văn bản
+Hiệu
+Gồm mặc định
+Đầu : 0
+Cuối: 0
+_Văn bản
+Giá trị hiện có
+Tăng dần tối thiểu
+Giá trị tối đa
+Giá trị tối thiểu
+_Giá trị
+không rõ
+Bộ xem giao diện
+Cho phép xem các thuộc tính giao diện khác nhau
+(chưa được thi hành)
+Tên
+URI
+Đầu
+Cuối
+Quá nhiều con chọn được
+(Sửa được)
+Chọn nhanh
+Phần bổ sung cung cấp các phương pháp khác nhau truy cập nhanh các điều truy cập.
+Xem xét điều truy cập có tiêu điểm cuối cùng
+Xem xét điều truy cập dưới con chuột
+Sở hữu
+Dogtail
+LDTP
+Kiểu văn lệnh
+Bộ thu văn lệnh
+Tạo văn lệnh kiểu dogtail
+Văn lệnh hiện thời sẽ bị mất.
+Xác nhận xoá
+_Giản đồ :
+Thầm tr_a
+Nghỉ
+Không mô tả
+Bộ thẩm tra AT-SPI
+Thẩm tra khả năng truy cập của ứng dụng
+Cấp
+Nhiệm vụ
+Đang lưu
+Đang thẩm tra
+NGOẠI LỆ
+LỖI
+BÁO
+TIN
+GỠ LỖI
+Cơ bản
+Thử ra khả năng truy cập cơ bản của ứng dụng GUI
+%s có thể hoạt động mà không thể nhận tiêu điểm hay được lựa chọn
+%s tương tác không thể hoạt động
+nhiều hơn một ô điều khiển có tiêu điểm
+%s không có giao diện văn bản
+chỉ mục %s trong đồ cha không tương ứng với chỉ mục con
+Thiếu đảo nghịch cho quan hệ %s
+%s thiếu tên hay nhãn
+%s có thể nhận tiêu điểm và có giao diện bảng, không phải giao diện lựa chọnbutton has focused state without focusable state
+%s có tình trạng %s mà không có tình trạng %s
+%s không thuộc về một tập hợp
+chỉ mục %(rolename)s %(num)d không tương ứng với hàng và cộtparent indexrow and column index
+chỉ mục cha %(rolename)s %(num1)d không tương ứng với chỉ mục hàng và cột %(num2)d
+%s không có tên hay mô tả
+Tù_y thích...
+_Nội dung
+Trình Accerciser không tìm thấy các ứng dụng trên màn hình nền của bạn. Bạn cần phải hiệu lực khả năng truy cập đến màn hình nền để sửa chữa vấn đề này. Bạn có muốn hiệu lực nó ngay bây giờ không?
+Ghi chú : thay đổi có tác động chỉ sau khi đăng xuất.

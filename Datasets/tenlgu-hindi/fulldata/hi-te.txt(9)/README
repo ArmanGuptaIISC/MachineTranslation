@@ -1,0 +1,15 @@
+ Corpus Name: ELRC-wikipedia_health
+     Package: ELRC-wikipedia_health.hi-te in Moses format
+     Website: http://opus.nlpl.eu/ELRC-wikipedia_health-v1.php
+     Release: v1
+Release date: Mon Nov  7 09:50:53 EET 2022
+     License: CC-BY-SA-3.0
+   Copyright: Check details at <a href=https://elrc-share.eu/repository/browse/covid-19-health-wikipedia-dataset-bilingual-en-he/d457e2ca8de811ea913100155d026706846d3922ca724e0db6382dcb6dc57fb0/>ELRC share</a>
+
+This corpus is part of OPUS - the open collection of parallel corpora
+OPUS Website: http://opus.nlpl.eu
+
+Please acknowledge the <a href=https://elrc-share.eu/repository/browse/covid-19-health-wikipedia-dataset-bilingual-en-he/d457e2ca8de811ea913100155d026706846d3922ca724e0db6382dcb6dc57fb0/>original sources and providers</a> of the data and also <a href=http://opus.lingfil.uu.se/LREC2012.txt>cite the following article</a> if you use the OPUS packages and downloads in your own work:<br/> J. Tiedemann, 2012, <a href=http://www.lrec-conf.org/proceedings/lrec2012/pdf/463_Paper.pdf><i>Parallel Data, Tools and Interfaces in OPUS.</i></a> In Proceedings of the 8th International Conference on Language Resources and Evaluation (LREC 2012)
+
+COVID-19 - HEALTH Wikipedia dataset. Bilingual (EN-HE)   
+ELRC-3065-wikipedia_health is a public data set distributed by the https://www.elrc-share.eu

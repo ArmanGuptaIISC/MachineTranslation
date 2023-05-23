@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cesAlign PUBLIC "-//CES//DTD XML cesAlign//EN" "http://www.xces.org/dtd/xcesAlign.dtd">
+
+<cesAlign version="1.0">
+ <linkGrp targType="s" fromDoc="hi/ELRC-wikipedia_health.xml.gz" toDoc="te/ELRC-wikipedia_health.xml.gz">
+  <link xtargets="32;63" />
+ </linkGrp>
+</cesAlign>

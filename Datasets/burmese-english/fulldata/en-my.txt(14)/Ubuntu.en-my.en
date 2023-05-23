@@ -1,0 +1,2128 @@
+Includes Gmail, Google Docs, Google+, YouTube and Picasa
+Change your own user data
+Authentication is required to change your own user data
+Manage user accounts
+Authentication is required to change user data
+Change the login screen configuration
+Authentication is required to change the login screen configuration
+Output version information and exit
+Replace existing instance
+Enable debugging code
+Provides D-Bus interfaces for querying and manipulating user account information.
+Usage:
+\t%s acl pathname...
+\t%s -b acl dacl pathname...
+\t%s -d dacl pathname...
+\t%s -R pathname...
+\t%s -D pathname...
+\t%s -B pathname...
+\t%s -l pathname...\t[not IRIX compatible]
+\t%s -r pathname...\t[not IRIX compatible]
+Activity Log Manager
+Activities and Privacy Manager Tool
+Privacy and Activity Manager
+Diagnostics
+When searching in the Dash:
+Include online search results
+Name
+Last Used
+Activity
+Select Application
+Today, %H:%M
+Yesterday, %H:%M
+%e %B %Y, %H:%M
+Never
+From:
+To:
+%d %B %Y
+This operation cannot be undone, are you sure you want to delete this activity?
+Ubuntu can collect anonymous information that helps developers improve it. All information collected is covered by our privacy policy.
+Privacy Policy
+People using this computer can:
+Send error reports to Canonical
+Error reports include information about what a program was doing when it failed. You always have the choice to send or cancel an error report.
+locale noexpr
+locale yesexpr
+--help" and "--version
+Play many different solitaire games
+Whether or not to show the toolbar
+Whether or not to show the status bar
+Sound
+Statistics of games played
+Recently played games
+A list of recently played games.
+Select Game
+_Select
+_Hint
+_New
+_Redo Move
+_Reset
+You should have received a copy of the GNU General Public License along with this program. If not, see .
+foundation
+reserve
+stock
+tableau
+waste
+%s on foundation
+%s on reserve
+%s on stock
+%s on tableau
+Auld Lang Syne
+Clock
+Forty Thieves
+Fourteen
+Zebra
+JOKER
+A
+2
+3
+4
+5
+6
+7
+8
+9
+J
+Q
+K
+Time
+%d
+%d%%
+translator-credits
+7zip
+7zip compression/uncompression tool
+ACE
+ACE compression/uncompression tool
+Bazaar Version Control System
+Easy to use distributed version control system
+ATI binary X.Org driver
+Installer for the Adobe Flash plugin for Mozilla
+Adobe Flash plugin
+GNOME Desktop Utilities
+Dictionary, Disk Usage Analyzer, Log File Viewer, Search Tool
+Icedtea Java Plugin
+Icedtea Java Browser Plugin
+Kernel Panic
+LXDE (the Lightweight X11 Desktop Environment)
+Meta-package for the Lightweight X11 Desktop Environment
+MySQL Client
+MySQL Server
+NVidia binary X.Org driver ('version 173' driver)
+Optimized hardware acceleration of OpenGL with nvidia graphic cards
+NVidia binary X.Org driver ('current' driver)
+NVidia binary X.Org driver ('version 96' driver)
+Optimized hardware acceleration of OpenGL with older nvidia graphic cards
+Open ClipArt
+This is a collection of free ClipArt
+Pidgin Internet Messenger Off-the-Record Plugin
+Off-the-Record Messaging plugin for pidgin
+Pidgin Internet Messenger Plugin Pack
+30 useful plugins for pidgin
+RAR
+RAR compression/uncompression tool
+Spamassassin
+Arte plugin for totem
+A totem plugin to watch streams from arte.tv
+Ubuntu restricted extras
+Unity 2D
+Xubuntu restricted extras
+Codecs to play
+GStreamer plugins for aac, xvid, mpeg2, faad
+GStreamer plugins for mms, wavpack, quicktime, musepack
+GStreamer ffmpeg video plugin
+Codecs to play mp3, sid, mpeg1, mpeg2, AC-3, DVD (without encryption)
+GStreamer extra plugins
+Educational desktop for Kubuntu
+The complete educational desktop for Kubuntu
+Educational desktop for Ubuntu
+The complete educational desktop for Ubuntu
+Pre-School Bundle
+Pre-school educational application bundle
+Primary Bundle
+Primary grade-level educational application bundle
+Secondary Bundle
+Secondary grade-level educational application bundle
+Tertiary Bundle
+Enigmail extension for Thunderbird
+GPG support for Thunderbird
+Firefox Launchpad plugin
+Ubufox extension for Firefox
+0 A.D.
+3D Chess
+3D chess for X11
+3depict
+A7Xpg
+Kenta Cho's A7Xpg
+Abe's Amazing Adventure
+AbiWord
+Compose, edit, and view documents
+Abraca XMMS2 Client
+Manage Music
+A side-scrolling shoot-em-up action game
+Accerciser Accessibility Explorer
+Penguin Canfield
+Penguin Freecell
+Penguin Golf
+Penguin Mastermind
+Penguin Merlin
+Penguin Minesweeper
+Penguin Pegged
+Penguin Solitaire
+Penguin Spider
+Penguin Taipei-Editor
+Penguin Taipei
+Penguin Thornq
+AcetoneISO
+AClock
+Analog Clock Dockapp
+Fly military aircraft in a combat situation
+Aconnectgui
+Actionaz
+Activity Log Manager
+Privacy and Activity Manager
+Adanaxis
+Waste's Edge
+A 2D graphical RPG
+Adun
+Biomoleculal Simulator
+Advene Video annotation
+Annotate Digital Video, Exchange on the NEt
+Aegisub
+Create and edit subtitles for film and videos.
+Aeolus
+Organ Emulator
+Aeskulap Viewer
+Medical image viewer and DICOM network client
+Agave
+Generate color schemes
+SimpleAgenda
+Simple agenda and calendar application for GNUstep
+Aghermann
+Manage EEG recordings, view and score EDF files, and simulate Process S
+Edfhed
+EDF file header editor
+AGTL Geocaching Tool
+Advanced Geocaching Tool For Linux
+Airstrike
+AisleRiot Solitaire
+Play many different solitaire games
+Akregator
+A KDE News Feed Reader
+Main Menu
+Add or remove applications from the main menu
+Alarm Clock
+Wake up in the morning
+Schedule your tasks
+Alex the Allegator 4
+Retro platform game
+Alien Arena
+A standalone 3D first person online deathmatch shooter
+Aliki (with ALSA support)
+Measurement tool for Impulse Responses
+Aliki (with JACK support)
+Alleyoop Memory Checker
+Find memory-management problems in your programs using the valgrind tool
+AllTray
+Alsamixergui
+Graphical audio mixer
+Alsaplayer
+Versatile audio player for the Audio Linux Sound Architecture
+OpenAL-Soft Configuration Utility
+AltOS UI
+View and log downlink data from Altus Metrum products
+Amarok
+Amarok - Rediscover Your Music!
+Amide
+Amoebax
+AMOR
+Amora Daemon
+Amphetamine
+Fight evil monsters with your magic weapons.
+Alsa Modular Synth
+Modular Software Synth
+amSynth
+Two oscillator software synthesizer
+aMuleGUI
+aMule remote control
+aMule
+Anagramarama
+fast paced anagram puzzle game using SDL
+Angband (GTK)
+A roguelike dungeon exploration game based on the books of J.R.R.Tolkien
+Angband (SDL)
+Angband (X11)
+Angry Drunken Dwarves
+Anjuta
+Anki
+An intelligent spaced-repetition memory training program
+Translator
+Translate as you type
+Apper
+Application to get and manage software
+Apper Installer
+Apper Settings
+Apper Updates
+APTonCD
+AptURL
+apvlv
+Alf's PDF Viewer Like Vim
+AQEMU
+QEMU & KVM Virtual Machine Manager
+Aqsis Shader Inspector
+Inspect compiled RenderMan Shading Language (RSL) files
+Aqualung
+Gapless audio player
+ARandR
+Screen Settings
+ARAnyM JIT
+Virtual Machine with JIT CPU compiler for max speed
+ARAnyM MMU
+Virtual Machine with MMU for FreeMiNT and Linux-m68k
+ARAnyM
+Virtual Machine for Atari 32-bit applications
+ARC Job Submission Tool
+Ardentryst
+Fantasy sidescroller game
+Ardesia desktop sketchpad
+Annotate on the desktop screen.
+Ardour Digital Audio Workstation
+Record, mix and master multi-track audio
+Arduino IDE
+Create physical computing projects
+Ario
+Client application to mpd
+Arista Transcoder
+Convert multimedia for all your devices
+Archiving Tool
+Ark
+Arkose Desktop Application Sandboxing
+Desktop application sandboxing
+Armagetron Advanced
+3d light cycle game
+Arora
+Browse the World Wide Web
+asciijump
+A clone of the dsj game
+AssaultCube
+Realistic first-person-shooter
+Asunder CD Ripper
+Asylum
+surreal platform shooting game
+Atomic Tanks
+Destroy your opponents' tanks.
+Atomix
+Molecule puzzle game
+Atris
+Tetris-like game
+Attal
+Turn based strategy game
+Audacious
+Listen to music
+Audacity
+Record and edit audio files
+Audex
+Rip audio tracks from your audio CDs
+Auralquiz
+A simple music quiz game for GNU/Linux
+Auto Multiple Choice
+AutoKey
+AutoRenamer
+Avahi Zeroconf Browser
+Browse for Zeroconf services available on your network
+Avahi SSH Server Browser
+Browse for Zeroconf-enabled SSH Servers
+Avahi VNC Server Browser
+Browse for Zeroconf-enabled VNC Servers
+Avidemux (Qt)
+Edit your Videos
+Avidemux (GTK+)
+Avogadro
+AWeather
+AWS Status
+ayttm
+Vuze
+Babiloo
+Application to view dictionaries
+Balazar Brothers
+B.A.L.L.Z.
+Bangarang
+Media Player
+Banshee Media Player
+Play and organize your media collection
+bareFTP
+Transfer files using the FTP, FTPS or SFTP protocol
+Barrage
+Basenji
+BASIC-256
+BitPim
+Sorry, an internal error happened.
+If you notice further problems, try restarting the computer.
+Show Details
+Leave Closed
+Continue
+Collecting problem information
+Sorry, %s has experienced an internal error.
+Sorry, a problem occurred while installing software.
+Relaunch
+Send problem report to the developers?
+Send
+Report a problem...
+Press any key to continue...
+What would you like to do? Your options are:
+Please choose (%s):
+(%i bytes)
+(binary data)
+&Send report (%s)
+&View report
+&Cancel
+&Confirm
+Error: %s
+Collecting problem information
+&Done
+none
+Choices:
+File does not exist.
+To continue, you must visit the following URL:
+Launch a browser now
+This package does not seem to be installed correctly
+unknown program
+Sorry, the program "%s" closed unexpectedly
+Problem in %s
+Invalid problem report
+Error
+Permission denied
+Invalid PID
+Package %s does not exist
+Cannot create report
+What kind of problem do you want to report?
+Print the Apport version number.
+Unable to start web browser
+Network problem
+Problem already known
+This problem was already reported to developers. Thank you!
+%prog [options]
+Do not put the new traces into the report, but write them to stdout.
+Start an interactive gdb session with the report's core dump (-o ignored; does not rewrite report)
+Write modified report to given file instead of changing the original report
+Remove the core dump from the report after stack trace regeneration
+Override report's CoreFile
+Override report's ExecutablePath
+Override report's ProcMaps
+Rebuild report's Package information
+Build a temporary sandbox and download/install the necessary packages and debug symbols in there; without this option it assumes that the necessary packages and debug symbols are already installed in the system. The argument points to the packaging system configuration base directory; if you specify "system", it will use the system configuration files, but will then only be able to retrace crashes that happened on the currently running release.
+you either need to do a local operation (-s, -g, -o) or supply an authentication file (--auth); see --help for a short help
+Sorry, the application %s has stopped unexpectedly.
+Sorry, %s has closed unexpectedly.
+Force Closed
+Package: %s
+The application %s has closed unexpectedly.
+Ignore future problems of this type
+Hide Details
+Username:
+Password:
+Collecting Problem Information
+The collected information can be sent to the developers to improve the application. This might take a few minutes.
+The application Apport has stopped responding.
+Sorry, the application apport has stopped unexpectedly.
+To view the list of trusted keys, you need to authenticate.
+To clean downloaded package files, you need to authenticate.
+To change software settings, you need to authenticate.
+To change software repository settings, you need to authenticate.
+Install package file
+To install this package, you need to authenticate.
+To install or remove software, you need to authenticate.
+To install software, you need to authenticate.
+To install software from a new source, you need to authenticate.
+To install purchased software, you need to authenticate.
+To install updated software, you need to authenticate.
+Cancel the task of another user
+To cancel someone else's software changes, you need to authenticate.
+ERROR
+ERROR:
+You are not allowed to perform this action.
+Queuing
+Do you want to continue [Y/n]?
+Install the given packages
+Reinstall the given packages
+Remove the given packages
+Waiting for authentication
+Removed trusted key
+Added software source
+Successful
+Canceled
+Failed
+Installing file
+Installing packages
+Removing packages
+Upgrading system
+Applying changes
+Adding software source
+Searching
+Search failed
+Check your Internet connection.
+Package does not exist
+Package is already up to date
+Package is already installed
+Package isn't installed
+%BDefault:%b
+True
+False
+%BValue:%b
+%BChoice:%b
+Display some available commands at the top of the screen
+Pause after downloading files
+Never
+Always
+Get:
+Hit
+Done
+Action "%s"
+This action is currently approved; it will be selected whenever possible.
+Enter "r %s" to allow this action to appear in new solutions.
+Enter "r %s" to prevent this action from appearing in new solutions.
+Enter "a %s" to cease requiring that new solutions include this action if possible.
+Unexpected end-of-file on standard input
+You may want to update the package lists to correct these missing files
+Unknown term type: "%s".
+Unknown log level name "%s" (expected "trace", "debug", "info", "warn", "error", "fatal", or "off").
+all-packages-with-dep-versions
+database %s failed to load.
+%s: will be newly installed
+%s: Version %s has already been seen
+News for %s
+Changes for %s
+apt-listchanges: News
+Aborting
+apt-listchanges: news for %s
+Continue Installation?
+You can abort the installation if you select 'no'.
+Mailing %s: %s
+Do you want to continue? [Y/n]
+Reading changelogs
+Done
+Exception '%s'
+Enabling '%s' failed
+Unknown channel '%s'
+The channel '%s' is not known
+Enabling channel '%s' failed
+Invalid /etc/apt/sources.list file
+Software index is broken
+This is a major failure of your software management system. Please check for broken packages with synaptic, check the file permissions and correctness of the file '/etc/apt/sources.list' and reload the software information with: 'sudo apt-get update' and 'sudo apt-get install -f'.
+Need a url to continue, exiting
+Package '%s' is already installed
+Can not install '%s' (%s)
+Install additional software?
+Do you want to install package '%s'?
+Description
+_Install
+Package %s version %s has an unmet dep:
+Total package names:
+Total package structures:
+Normal packages:
+Pure virtual packages:
+Single virtual packages:
+Mixed virtual packages:
+Missing:
+Total distinct versions:
+Total distinct descriptions:
+Total dependencies:
+Total ver/file relations:
+Total Desc/File relations:
+Total Provides mappings:
+Total globbed strings:
+Total dependency version space:
+Total slack space:
+Total space accounted for:
+Package file %s is out of sync.
+No packages found
+You must give at least one search pattern
+This command is deprecated. Please use 'apt-mark showauto' instead.
+Unable to locate package %s
+Package files:
+Cache is out of sync, can't x-ref a package file
+Pinned packages:
+(not found)
+Installed:
+Candidate:
+(none)
+Hmm, seems like the AutoRemover destroyed something which really shouldn't happen. Please file a bug report against apt.
+Allow access to pulseaudio
+Selected Link
+invalid
+alert
+arrow
+calendar
+color chooser
+OK
+Bad state
+Invalid domain name
+Invalid service name
+Invalid address
+Not found
+Version mismatch
+Not supported
+Not permitted
+Is empty
+TXT
+empty
+Service Type:
+Service Name:
+Address:
+Service Name
+Address
+n/a
+Browsing...
+Location
+Name
+Type
+Desktop
+Terminal
+Choose VNC server
+Choose SSH server
+pthread_attr_init: ERR=%s
+pthread_mutex_init: ERR=%s
+pthread_cond_init: ERR=%s
+pthread_cond_broadcast: ERR=%s
+pthread_cond_wait: ERR=%s
+Job %s waiting %d seconds for scheduled start time.
+pthread_thread_create: ERR=%s
+pthread_cond_signal: ERR=%s
+pthread_create: ERR=%s
+previous Job
+Job canceled. Attempt to read and write same device. Read storage "%s" (From %s) -- Write storage "%s" (From %s)
+Continue? (yes/mod/no):
+mod
+Invalid period.
+You have the following choices:
+The defined Storage resources are:
+Storage
+Select Storage resource
+The defined FileSet resources are:
+FileSet
+Select FileSet resource
+Could not find a Catalog resource
+The defined Catalog resources are:
+Catalog
+Select Catalog resource
+The defined Job resources are:
+Job
+Select Job resource
+Client
+Select Client (File daemon) resource
+Error: Client resource %s does not exist.
+Could not find Client %s: ERR=%s
+Could not find Client "%s": ERR=%s
+No clients defined. You must run a job before using this command.
+Select the Client
+Could not find Pool "%s": ERR=%s
+Error obtaining pool ids. ERR=%s
+No pools defined. Use the "create" command to create one.
+Defined Pools:
+*None*
+Pool
+Select the Pool
+No access to Pool "%s"
+Enter *MediaId or Volume name:
+The defined Pool resources are:
+Select Pool resource
+Error: Pool resource "%s" does not exist.
+Enter the JobId to select:
+Could not find Job "%s": ERR=%s
+Automatically selected %s: %s
+Selection list for "%s" is empty!
+Automatically selected: %s
+Selection aborted, nothing done.
+Please enter a number between 1 and %d
+Storage name given twice.
+JobId %s is not running.
+Job "%s" is not running.
+Expecting ujobid=xxx, got: %s.
+Storage resource "%s": not found
+Enter autochanger drive[0]:
+Enter autochanger slot:
+Media Types defined in conf file:
+Media Type
+Select the Media Type
+Unauthorized command from this console.
+No Jobs running.
+None of your jobs are running.
+Select Job:
+JobId=%s Job=%s
+Cancel: %s %s
+Confirm cancel?
+Confirm cancel (yes/no):
+Job "%s" not found.
+Unable to get Job record. ERR=%s
+Unable to get Job Volume Parameters. ERR=%s
+Unable to create bootstrap file %s. ERR=%s
+No files found to read. No bootstrap file written.
+Bootstrap records written to %s
+The job will require the following Volume(s) Storage(s) SD Device(s) ===========================================================================
+No Volumes found to restore.
+Cannot create UA thread: %s
+Apple Devices Support
+Support for most iPod/iPhone/iPad devices.
+Device Support
+Browse, search, and purchase music from the Amazon MP3 store.
+Online Sources
+Amazon MP3 Import
+Download and import music purchased from Amazon.com.
+Boo Scripting
+Utilities
+DAAP Sharing
+Browse and listen to music shared over your local network.
+eMusic Store
+Browse, search, and purchase music and audiobooks from eMusic
+eMusic Import
+Download and import music purchased from eMusic.
+File System Preview Queue
+Metadata Fixup
+Internet Radio
+Last.fm Radio
+Notification Area Icon
+DVD and Audio CD Support
+Watch DVDs, listen to and rip Audio CDs.
+Play Queue
+Control Banshee from the Sound Menu.
+Torrent Downloader
+Ubuntu One Music Store
+Wikipedia
+YouTube
+AAC (Novell Encoder)
+MPEG-4 ISO
+MPEG-4 QuickTime
+3GPP
+Profile
+Output Format
+Channels
+MP3 (LAME Encoder)
+Worst
+Best
+MP3 (Xing Encoder)
+Audio quality
+Mode
+Fast Compression
+Default Compression
+High Compression
+Very High Compression
+Default
+Highest
+Windows Media Audio
+Audio Quality
+Media Player
+Banshee Media Player
+Play and organize your media collection
+Write CD...
+Write selected tracks to an audio CD
+Could not write CD
+Brasero could not be started
+Unknown Error
+Import
+Can't check for updates
+No update available
+You already have the latest version of Banshee installed.
+Banshee update available
+Downloading {0}
+{0} MB / {1} MB ({2} KB/s)
+Update download failed
+The download failed. Please try again later.
+Check for Updates
+Show this help
+Show version information
+Current player state
+Last player state
+Player volume
+URI
+Artist Name
+Album Title
+Track Title
+Duration
+Track Number
+Disc Number
+Year
+Rating
+Score
+Play Album
+_Play
+Play _Song
+Add a song to the playlist
+Play _Album
+Add an album to the playlist
+{0} remaining
+Play Song
+Close
+Search
+Artist, Album, or Title
+Album Artist
+Genre
+Comment
+Unknown Artist
+Unknown Album
+Unknown Title
+Various Artists
+File not found
+Unknown error
+Grouping
+Importing From {0}
+Artist
+artists
+compilationartist
+_Genre:
+Track _Number:
+{0}on{1} {2}
+Generation
+Serial number
+Automatic (Geo IP detection)
+a_BAR_an_BAR_the
+Add a new Last.fm radio station
+Listen to {0} Station
+Import ‟{0}”
+Ejecting {0}...
+Cancel all podcast downloads?
+Print version information and exit
+Zoom _in
+Zoom _out
+Home folder
+Close
+Folder
+Usage
+Size
+Contents
+_Open Folder
+Mo_ve to Trash
+_Help
+_About
+_Quit
+_View
+_Reload
+_Expand All
+_Collapse All
+Select Folder
+Baobab
+translator-credits
+"%s" is not a valid folder
+%s: cannot read: %s
+line %d:
+warning:
+%s: usage:
+%s: not found
+invalid octal number
+invalid hex number
+invalid number
+%s: no such job
+%s: restricted
+restricted
+%s: cannot delete: %s
+%s: file is too large
+logout
+There are running jobs.
+no command found
+%s: cannot open temp file: %s
+syntax error: cannot back up
+syntax is ambiguous
+syntax error
+syntax error, unexpected %s
+syntax error, unexpected %s, expecting %s
+syntax error, unexpected %s, expecting %s or %s
+syntax error, unexpected %s, expecting %s or %s or %s
+syntax error, unexpected %s, expecting %s or %s or %s or %s
+memory exhausted
+fatal error
+warning
+Conflict between rule %d and token %s resolved as shift
+Conflict between rule %d and token %s resolved as reduce
+Conflict between rule %d and token %s resolved as an error
+State %d
+conflicts: %d shift/reduce, %d reduce/reduce
+conflicts: %d shift/reduce
+conflicts: %d reduce/reduce
+cannot close file
+refusing to overwrite the input file %s
+Usage: %s [OPTION]... FILE
+The same is true for optional arguments.
+bison (GNU Bison) %s
+Written by Robert Corbett and Richard Stallman.
+Copyright (C) %d Free Software Foundation, Inc.
+Grammar
+%s subprocess failed
+OK
+Cancel
+Reboot
+Continue
+Boot Options
+Exiting...
+You are leaving the graphical boot menu and starting the text mode interface.
+Help
+Boot loader
+I/O error
+Change Boot Disk
+Insert boot disk %u.
+This is boot disk %u. Insert boot disk %u.
+This is not a suitable boot disk. Please insert boot disk %u.
+Password
+Enter your password:
+DVD Error
+This is a two-sided DVD. You have booted from the second side. Turn the DVD over then continue.
+Power Off
+Halt the system now?
+Password
+Other Options
+Language
+Keymap
+Modes
+Normal
+Expert mode
+Accessibility
+None
+High Contrast
+Magnifier
+Screen Reader
+Braille Terminal
+Keyboard Modifiers
+On-Screen Keyboard
+Motor Difficulties - switch devices
+Everything
+^Try Ubuntu without installing
+^Try Kubuntu without installing
+^Try Edubuntu without installing
+^Try Xubuntu without installing
+^Try Ubuntu MID without installing
+^Try Ubuntu Netbook without installing
+^Try Kubuntu Netbook without installing
+^Try Lubuntu without installing
+^Start Kubuntu
+Use driver update disc
+^Install Ubuntu in text mode
+^Install Kubuntu in text mode
+^Install Edubuntu in text mode
+^Install Xubuntu in text mode
+^Install Ubuntu
+^Install Kubuntu
+^Install Edubuntu
+^Install Xubuntu
+^Install Ubuntu Server
+^Multiple server install with MAAS
+^Install Ubuntu Studio
+^Install Ubuntu MID
+^Install Ubuntu Netbook
+^Install Kubuntu Netbook
+^Install Lubuntu
+Install a workstation
+Install a server
+OEM install (for manufacturers)
+Install a LAMP server
+Install an LTSP server
+Install a Diskless Image Server
+Install a command-line system
+Install a minimal system
+Install a minimal virtual machine
+^Check disc for defects
+^Rescue a broken system
+Test ^memory
+^Boot from first hard disk
+Free software only
+^Dell Automatic Reinstall
+^Install Mythbuntu
+^Try Mythbuntu without installing
+^Try Ubuntu Kylin without installing
+^Try Ubuntu Kylin Netbook without installing
+^Install Ubuntu Kylin in text mode
+^Install Ubuntu Kylin
+^Install Ubuntu Kylin Netbook
+^Start Ubuntu Kylin
+Brasero
+Disc Burner and Copier
+Create and copy CDs and DVDs
+Brasero Disc Burner
+Open a New Window
+Burn an Image File
+Create an Audio Project
+Create a Video Project
+Brasero project file
+Should Nautilus extension output debug statements
+Should Nautilus extension output debug statements. The value should be set to true if it should.
+The type of checksum used for images
+Set to 0 for MD5, 1 for SHA1 and 2 for SHA256
+The type of checksum used for files
+Directory to use for temporary files
+Contains the path to the directory where brasero should store temporary files. If that value is empty, the default directory set for glib will be used.
+Favourite burn engine
+Contains the name of the favourite burn engine suite installed. It will be used if possible.
+White list of additional plugins to use
+Contains the list of additional plugins Brasero will use to burn discs. If set to NULL, Brasero will load them all.
+Enable the "-immed" flag with cdrecord
+Whether to use the "-immed" flag with cdrecord. Use with caution (set to true) as it's only a workaround for some drives/setups.
+Whether to use the "-use-the-force-luke=dao" flag with growisofs
+Whether to use the "-use-the-force-luke=dao" flag with growisofs. Set to false, brasero won't use it; it may be a workaround for some drives/setups.
+The last browsed folder while looking for images to burn
+Contains the absolute path of the directory that was last browsed for images to burn
+Enable file preview
+Should brasero filter hidden files
+Should brasero filter hidden files. Set to true, brasero will filter hidden files.
+Should brasero replace symbolic links by their target files in the project. Set to true, brasero will replace symbolic links.
+Should brasero filter broken symbolic links
+Should brasero filter broken symbolic links. Set to true, brasero will filter broken symbolic links.
+The priority value for the plugin
+This value represents the burning flags that were used in such a context the last time.
+The speed to be used
+This value represents the speed that was used in such a context the last time.
+Menu
+Cancel ongoing burning
+Show _Dialog
+Show dialog
+%s, %d%% done, %s remaining
+%s, %d%% done
+Brasero Disc Burner: %s
+Error while blanking.
+Blank _Again
+Unknown error.
+The disc was successfully blanked.
+The disc is ready for use.
+_Blank
+_Fast blanking
+Activate fast blanking, as opposed to a longer, thorough blanking
+Disc Blanking
+Burning CD/DVD
+The drive is busy
+Make sure another application is not using it
+"%s" cannot be unlocked
+No burner specified
+No source drive specified
+Ongoing copying process
+The drive cannot be locked (%s)
+The drive has no rewriting capabilities
+Ongoing blanking process
+The drive cannot burn
+Ongoing burning process
+Ongoing checksumming operation
+Merging data is impossible with this disc
+Not enough space available on the disc
+%s (application)
+%s (library)
+%s (GStreamer plugin)
+There is no track to burn
+Please install the following required applications and libraries manually and try again:
+Only one track at a time can be checked
+No format for the temporary image could be found
+An internal error occurred
+Brasero notification
+%s (%i%% Done)
+Creating Image
+Burning DVD
+Copying DVD
+Burning CD
+Copying CD
+Burning Disc
+Copying Disc
+Creating image
+Simulation of video DVD burning
+Burning video DVD
+Simulation of data DVD burning
+Burning data DVD
+Simulation of image to DVD burning
+Burning image to DVD
+Simulation of data DVD copying
+Copying data DVD
+Simulation of (S)VCD burning
+Burning (S)VCD
+Simulation of audio CD burning
+Burning audio CD
+Simulation of data CD burning
+Burning data CD
+Simulation of CD copying
+Simulation of image to CD burning
+Burning image to CD
+Simulation of video disc burning
+Burning video disc
+Simulation of data disc burning
+Burning data disc
+Simulation of disc copying
+Copying disc
+Simulation of image to disc burning
+Burning image to disc
+Please replace the disc with a rewritable disc holding data.
+Please replace the disc with a disc holding data.
+Please insert a rewritable disc holding data.
+Please insert a disc holding data.
+Please replace the disc with a writable CD with at least %i MiB of free space.
+Please replace the disc with a writable CD.
+Please insert a writable CD with at least %i MiB of free space.
+Please insert a writable CD.
+Please replace the disc with a writable DVD with at least %i MiB of free space.
+Please replace the disc with a writable DVD.
+Please insert a writable DVD with at least %i MiB of free space.
+Please insert a writable DVD.
+Please replace the disc with a writable CD or DVD with at least %i MiB of free space.
+Please replace the disc with a writable CD or DVD.
+Please insert a writable CD or DVD with at least %i MiB of free space.
+Please insert a writable CD or DVD.
+An image of the disc has been created on your hard drive. Burning will begin as soon as a writable disc is inserted.
+A data integrity test will begin as soon as the disc is inserted.
+Please re-insert the disc in the CD/DVD burner.
+"%s" is busy.
+There is no disc in "%s".
+The disc in "%s" is not supported.
+The disc in "%s" is not rewritable.
+The disc in "%s" is empty.
+The disc in "%s" is not writable.
+Not enough space available on the disc in "%s".
+The disc in "%s" needs to be reloaded.
+Please eject the disc and reload it.
+A file could not be created at the location specified for temporary files
+The image could not be created at the specified location
+Do you want to specify another location for this session or retry with the current location?
+You may want to free some space on the disc and retry
+_Keep Current Location
+_Change Location
+Location for Image File
+Location for Temporary Files
+_Replace Disc
+Do you really want to blank the current disc?
+The disc in the drive holds data.
+_Blank Disc
+If you import them you will be able to see and use them once the current selection of files is burned.
+If you don't, they will be invisible (though still readable).
+There are files already burned on this disc. Would you like to import them?
+_Import
+Only _Append
+CD-RW audio discs may not play correctly in older CD players and CD-Text won't be written.
+Do you want to continue anyway?
+Appending audio tracks to a CD is not advised.
+_Continue
+CD-RW audio discs may not play correctly in older CD players.
+Recording audio tracks on a rewritable disc is not advised.
+Please eject the disc from "%s" manually.
+The disc could not be ejected though it needs to be removed for the current operation to continue.
+Do you want to replace the disc and continue?
+The currently inserted disc could not be blanked.
+Do you want to continue with full Windows compatibility disabled?
+Some files don't have a suitable name for a fully Windows-compatible CD.
+C_ontinue
+The simulation was successful.
+Real disc burning will take place in 10 seconds.
+Burn _Now
+Save Current Session
+An unknown error occurred.
+Error while burning.
+_Save Log
+Video DVD successfully burned
+(S)VCD successfully burned
+Audio CD successfully burned
+Image successfully created
+DVD successfully copied
+CD successfully copied
+Image of DVD successfully created
+Image of CD successfully created
+Image successfully burned to DVD
+Image successfully burned to CD
+Data DVD successfully burned
+Data CD successfully burned
+Copy #%i has been burned successfully.
+Another copy will start as soon as you insert a new writable disc. If you do not want to burn another copy, press "Cancel".
+Make _More Copies
+There are some files left to burn
+There are some more videos left to burn
+There are some more songs left to burn
+Do you really want to quit?
+Interrupting the process may make disc unusable.
+C_ontinue Burning
+_Cancel Burning
+Please insert a writable CD or DVD if you don't want to write to an image file.
+Create _Image
+_Copy
+Make _Several Copies
+_Burn
+Burn _Several Copies
+Would you like to burn the selection of files across several media?
+The data size is too large for the disc even with the overburn option.
+_Burn Several Discs
+Burn the selection of files across several media
+Please choose another CD or DVD or insert a new one.
+No track information (artist, title, ...) will be written to the disc.
+This is not supported by the current active burning backend.
+Please add files.
+There are no files to write to disc
+Please add songs.
+There are no songs to write to disc
+Please add videos.
+There are no videos to write to disc
+There is no inserted disc to copy.
+Please select a disc image.
+There is no selected disc image.
+Please select another image.
+It doesn't appear to be a valid disc image or a valid cue file.
+Please insert a disc that is not copy protected.
+All required applications and libraries are not installed.
+Please replace the disc with a supported CD or DVD.
+Would you like to burn beyond the disc's reported capacity?
+The data size is too large for the disc and you must remove files from the selection otherwise. You may want to use this option if you're using 90 or 100 min CD-R(W) which cannot be properly recognised and therefore need overburn option. NOTE: This option might cause failure.
+_Overburn
+Burn beyond the disc's reported capacity
+The drive that holds the source disc will also be the one used to record.
+A new writable disc will be required once the currently loaded one has been copied.
+Select a disc to write to
+Disc Burning Setup
+Video Options
+Do you want to create a disc from the contents of the image or with the image file inside?
+There is only one selected file ("%s"). It is the image of a disc and its contents can be burned.
+Burn as _File
+Burn _Contents…
+Image Burning Setup
+Select a disc image to write
+Copy CD/DVD
+Select disc to copy
+Please install the following manually and try again:
+Unknown song
+by %s
+"%s" cannot be read
+SVCD image
+VCD image
+Video DVD image
+%s: "%s"
+New disc in the burner holding the source disc
+%s: not enough free space
+%s: %s of free space
+%s: %s free
+Do you really want to choose this location?
+You do not have the required permission to write at this location
+The filesystem on this volume does not support large files (size over 2 GiB). This can be a problem when writing DVDs or large images.
+%.1f× (DVD)
+%.1f× (CD)
+%.1f× (BD)
+%.1f× (BD) %.1f× (DVD) %.1f× (CD)
+Impossible to retrieve speeds
+Maximum speed
+Burning speed
+_Simulate before burning
+Brasero will simulate the burning and, if it is successful, go on with actual burning after 10 seconds
+Use burn_proof (decrease the risk of failures)
+Burn the image directly _without saving it to disc
+Leave the disc _open to add other files later
+Allow to add more data to the disc later
+Options
+Location for _Temporary Files
+Set the directory where to store temporary files
+Temporary files
+Hidden file
+Unreadable file
+Broken symbolic link
+Recursive symbolic link
+Disc image type:
+Autodetect
+ISO9660 image
+Readcd/Readom image
+Cue image
+Cdrdao image
+Properties of %s
+Do you really want to keep the current extension for the disc image name?
+If you choose to keep it, programs may not be able to recognize the file type properly.
+_Keep Current Extension
+Change _Extension
+Configure recording options
+Total time: %02i:%02i:%02i
+Average drive speed:
+Estimated remaining time: %02i:%02i:%02i
+%i MiB of %i MiB
+Estimated drive speed:
+"%s": loading
+"%s": unknown disc image type
+"%s": %s
+Click here to select a disc _image
+Select Disc Image
+All files
+Image files
+Image type:
+Estimated size: %s
+Do you really want to add "%s" to the selection?
+The children of this directory will have 7 parent directories. Brasero can create an image of such a file hierarchy and burn it but the disc may not be readable on all operating systems. Note: Such a file hierarchy is known to work on Linux.
+Ne_ver Add Such File
+Al_ways Add Such File
+Do you really want to add "%s" to the selection and use the third version of the ISO9660 standard to support it?
+Should files be renamed to be fully Windows-compatible?
+_Disable Full Windows Compatibility
+_Rename for Full Windows Compatibility
+Size Estimation
+Please wait until the estimation of the size is completed.
+All files need to be analysed to complete this operation.
+Check _Again
+The file integrity check could not be performed.
+An unknown error occurred
+The file integrity check was performed successfully.
+There seem to be no corrupted files on the disc
+The following files appear to be corrupted:
+Corrupted Files
+Downloading MD5 file
+"%s" is not a valid URI
+No MD5 file was given.
+Use an _MD5 file to check the disc
+Use an external .md5 file that stores the checksum of a disc
+Open an MD5 file
+_Check
+Disc Checking
+The operation cannot be performed.
+The disc is not supported
+The drive is empty
+Select a disc
+Progress
+(loading…)
+Empty
+Disc file
+New folder
+New folder %i
+Analysing files
+"%s" cannot be found.
+Retrieving image format and size
+The format of the disc image could not be identified
+Please set it manually
+"%s" was removed from the file system.
+Directories cannot be added to video or audio discs
+Playlists cannot be added to video or audio discs
+"%s" is not suitable for audio or video media
+Analysing video files
+Video format:
+_NTSC
+Format used mostly on the North American continent
+_PAL/SECAM
+Format used mostly in Europe
+Native _format
+Aspect ratio:
+_4:3
+_16:9
+VCD type:
+Create an SVCD
+Create a VCD
+Directory could not be created (%s)
+Getting size
+Writing
+Blanking
+Creating checksum
+Copying file
+Analysing audio files
+Transcoding song
+Preparing to write
+Writing leadin
+Writing CD-Text information
+Finalizing
+Writing leadout
+Starting to record
+Success
+Ejecting medium
+Brasero media burning library
+Display options for Brasero-burn library
+"%s" did not behave properly
+Not enough space available on the disc (%s available for %s)
+The filesystem you chose to store the temporary image on cannot hold files with a size over 2 GiB
+The location you chose to store the temporary image on does not have enough free space for the disc image (%ld MiB needed)
+No path was specified for the image output
+An internal error occurred (%s)
+The file is not stored locally
+VIDEO_TS directory is missing or invalid
+"%s" could not be found in the path
+"%s" GStreamer plugin could not be found
+The version of "%s" is too old
+"%s" is a symbolic link pointing to another program
+"%s" could not be found
+Process "%s" ended with an error code (%i)
+Image File
+Unnamed CD/DVD Drive
+Display options for Brasero media library
+File
+CD-ROM
+CD-R
+CD-RW
+DVD-ROM
+DVD-R
+DVD-RW
+DVD+R
+DVD+RW
+DVD+R dual layer
+DVD+RW dual layer
+DVD-R dual layer
+DVD-RAM
+Blu-ray disc
+Writable Blu-ray disc
+Rewritable Blu-ray disc
+Blank %s in %s
+Audio and data %s in %s
+Audio %s in %s
+Data %s in %s
+%s in %s
+%s: empty
+%s: %s
+Searching for available discs
+No disc available
+%s h %s min %s
+%s h %s
+%s h
+%s:%s:%s
+%s:%s
+%s min
+%s:%s min
+Blank disc (%s)
+Audio and data disc (%s)
+Audio disc (%s)
+Data disc (%s)
+It does not appear to be a valid ISO image
+Unknown error
+Size mismatch
+Type mismatch
+Outrange address
+Invalid address
+Invalid command
+Invalid field in command
+The device timed out
+Invalid track mode
+_Hide changes
+_Show changes
+The file does not appear to be a playlist
+Images
+_Color
+Solid color
+Horizontal gradient
+Vertical gradient
+_Image
+Image path:
+Choose an image
+Image style:
+Centered
+Scaled
+Background Properties
+Print
+Bac_kground Properties
+Background properties
+Align right
+Center
+Align left
+Underline
+Italic
+Bold
+Font family and size
+_Text Color
+Text color
+Cover Editor
+Set Bac_kground Properties
+SIDES
+BACK COVER
+FRONT COVER
+The image could not be loaded.
+"%s" could not be handled by GStreamer.
+%s element could not be created
+Pick a Color
+CD/DVD Creator
+Create CDs and DVDs
+Medium Icon
+CD/DVD Creator Folder
+Disc Name:
+Drag or copy files below to write them to disc
+Write to Disc
+Write contents to a CD or DVD
+Copy Disc
+_Write to Disc…
+Write disc image to a CD or DVD
+_Copy Disc…
+Create a copy of this CD or DVD
+_Blank Disc…
+Blank this CD or DVD
+_Check Disc…
+Check the data integrity on this CD or DVD
+Data could not be read (%s)
+Data could not be written (%s)
+Generates .cue files from audio
+cdrdao burning suite
+Copying audio track
+Copying data track
+Analysing track %02i
+You do not have the required permissions to use this drive
+Converting toc file
+Copies, burns and blanks CDs
+Enable the "--driver generic-mmc-raw" flag (see cdrdao manual)
+cdrkit burning suite
+Last session import failed
+An image could not be created
+This version of genisoimage is not supported
+Some files have invalid filenames
+Unknown character encoding
+There is no space left on the device
+Creates disc images from a file selection
+The location you chose to store the image on does not have enough free space for the disc image
+Copies any disc to a disc image
+An error occurred while writing to disc
+The system is too slow to write the disc at this speed. Try a lower speed
+Writing track %s
+Formatting disc
+Writing cue sheet
+The disc needs to be reloaded before being recorded
+Burns, blanks and formats CDs and DVDs
+Enable the "-immed" flag (see wodim manual)
+Minimum drive buffer fill ratio (in %) (see wodim manual):
+Copying audio track %02d
+Preparing to copy audio disc
+Copy tracks from an audio CD with all associated information
+Burns, blanks and formats CDs, DVDs and BDs
+Enable the "-immed" flag (see cdrecord manual)
+Minimum drive buffer fill ratio (in %%) (see cdrecord manual):
+cdrtools burning suite
+This version of mkisofs is not supported
+File "%s" could not be opened (%s)
+Creating checksum for image files
+No checksum file could be found on the disc
+Checking file integrity
+File "%s" could not be opened
+Some files may be corrupted on the disc
+File Checksum
+Checks file integrities on a disc
+Hashing algorithm to be used:
+MD5
+SHA1
+SHA256
+"%s" could not be opened (%s)
+Creating image checksum
+Image Checksum
+Checks disc integrity after it is burnt
+Creating file layout
+Creates disc images suitable for video DVDs
+Retrieving DVD keys
+Video DVD could not be opened
+Error while reading video DVD (%s)
+Copying video DVD
+Copies CSS encrypted video DVDs to a disc image
+Blanks and formats rewritable DVDs and BDs
+Burns and blanks DVDs and BDs
+Allow DAO use
+growisofs burning suite
+libburn track could not be created
+libburn library could not be initialized
+The drive address could not be retrieved
+Writing track %02i
+libburnia burning suite
+Volume could not be created
+libisofs could not be initialized.
+Read options could not be created
+libisofs reported an error while creating directory "%s"
+libisofs reported an error while adding file at path "%s"
+Copying checksum file
+Copying files locally
+File Downloader
+Allows files not stored locally to be burned
+Impossible to retrieve local file path
+Allows files added to the "CD/DVD Creator Folder" in Nautilus to be burned
+Impossible to link plugin pads
+Normalizing tracks
+Normalization
+Sets consistent sound levels between tracks
+Error while padding file (%s)
+Error while getting duration
+Analysing "%s"
+Transcoding "%s"
+Converts any song file into a format suitable for audio CDs
+Converting video file to MPEG2
+Converts any video file into a format suitable for video DVDs
+Creates disc images suitable for SVCDs
+_Project
+_View
+_Edit
+_Tools
+_Help
+P_lugins
+Choose plugins for Brasero
+E_ject
+Eject a disc
+_Blank…
+Blank a disc
+_Check Integrity…
+Check data integrity of disc
+Quit Brasero
+_Contents
+Display help
+About
+Disc Burner
+Error while loading the project
+Please add files to the project.
+The project is empty
+Brasero is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
+A simple to use CD/DVD burning application for GNOME
+Brasero Homepage
+translator-credits
+The project "%s" does not exist
+_Recent Projects
+Display the projects recently opened
+Open the selected files
+_Edit Information…
+Edit the track information (start, end, author, etc.)
+Remove the selected files from the project
+Paste files
+I_nsert a Pause
+Add a 2 second pause after the track
+_Split Track…
+Split the selected track
+Pause
+Split
+Track
+Title
+Artist
+Length
+The track will be padded at its end.
+The track is shorter than 6 seconds
+Make sure the appropriate codec is installed
+Do you want to add "%s", which is a video file?
+This file is a video and therefore only the audio part can be written to the disc.
+_Discard File
+_Add File
+Do you want to search for audio files inside the directory?
+Search _Directory
+"%s" could not be opened.
+Do you want to create an audio CD with DTS tracks?
+Create _Regular Tracks
+Click here to burn all songs as regular tracks
+Create _DTS Tracks
+Click here to burn all suitable songs as DTS tracks
+Select one song only please.
+Impossible to split more than one song at a time
+Open the specified project
+PROJECT
+Open the specified playlist as an audio project
+PLAYLIST
+Set the drive to be used for burning
+DEVICE PATH
+Create an image file instead of burning
+Open an audio project adding the URIs given on the command line
+Open a data project adding the URIs given on the command line
+Copy a disc
+PATH TO DEVICE
+Cover to use
+PATH TO COVER
+Open a video project adding the URIs given on the command line
+URI of an image file to burn (autodetected)
+PATH TO IMAGE
+Force Brasero to display the project selection page
+Open the blank disc dialog
+Open the check disc dialog
+Burn the contents of the burn:// URI
+Start burning immediately.
+Don't connect to an already-running instance
+Burn the specified project and remove it. This option is mainly useful for integration with other applications.
+PATH
+"%s" cannot write.
+Wrong command line option.
+Incompatible command line options used.
+Only one option can be given at a time
+R_ename…
+Rename the selected file
+New _Folder
+Create a new empty folder
+The session could not be imported.
+The contents of the project changed since it was saved.
+_Discard
+Discard the current modified project
+Continue with the current modified project
+There is only one selected file ("%s"). It is the image of a disc and its contents can be burned
+Burn as _Data
+Burn as _Image
+"%s" cannot be added to the selection.
+It does not exist at the specified location
+Do you want to replace "%s"?
+A file with this name already exists in the folder. Replacing it will overwrite its contents on the disc to be burnt.
+Always K_eep
+_Keep
+_Replace
+Al_ways Replace
+Import %s
+I_mport %s
+I_mport
+Do you want to import the session from "%s"?
+That way, old files from previous sessions will be usable after burning.
+I_mport Session
+Click here to import its contents
+Please wait while the project is loading.
+_Cancel Loading
+Cancel loading current project
+File Renaming
+_Rename
+Renaming mode
+Files
+Size
+Description
+Space
+The disc in "%s" cannot be ejected
+_Eject
+Eject Disc
+Audio files
+Movies
+No file filtered
+Filter Options
+Select the files you want to restore and click on the "Restore" button
+Type
+_Restore
+Restore the selected files
+_Options…
+Set the options for file filtering
+Filter _hidden files
+Re_place symbolic links
+Filter _broken symbolic links
+Filtering options
+P_review
+Display video, audio and image preview
+_Show Side Panel
+Show a side pane along the project
+_Horizontal Layout
+Set a horizontal layout
+_Vertical Layout
+Set a vertical layout
+Click to close the side pane
+Remove silences
+This information will be written to the disc using CD-Text technology. It can be read and displayed by some audio CD players.
+Song titles
+Additional song information
+Artist:
+Composer:
+Pause length:
+Gives the length of the pause that should follow the track
+Song Information
+%i × %i pixels
+No preview
+Error parsing playlist "%s".
+Select Playlist
+Playlists
+Number of Songs
+Genre
+Plugin
+Enabled
+Copyright %s
+_About
+C_onfigure
+A_ctivate
+Ac_tivate All
+_Deactivate All
+Options for plugin %s
+Brasero Plugins
+Save current project
+Save _As…
+Save current project to a different location
+_Add Files
+Add files to the project
+_Remove Files
+E_mpty Project
+Remove all files from the project
+_Burn…
+Burn the disc
+To add files to this project click the "Add" button or drag files to this area
+To remove files select them then click on the "Remove" button or press "Delete" key
+Estimated project size: %s
+The project is too large for the disc even with the overburn option.
+The project is too large for the disc and you must remove files from it. You may want to use this option if you're using 90 or 100 min CD-R(W) which cannot be properly recognized and therefore needs the overburn option. Note: This option might cause failure.
+Start to burn the contents of the selection
+Please add songs to the project.
+Do you really want to create a new project and discard the current one?
+If you choose to create a new empty project, all changes will be lost.
+_Discard Changes
+Do you want to discard the file selection or add it to the new project?
+If you choose to create a new empty project, the file selection will be discarded.
+_Discard File Selection
+_Keep File Selection
+_Discard Project
+Select Files
+Do you really want to empty the current project?
+Emptying a project will remove all files already added. All the work will be lost. Note that files will not be deleted from their own location, just no longer listed here.
+_Save
+_Add
+_Remove
+Your project has not been saved.
+Save the changes of current project before closing?
+If you don't save, changes will be permanently lost.
+Cl_ose Without Saving
+Save Current Project
+Save project as a Brasero audio project
+Save project as a plain text list
+Save project as a PLS playlist
+Save project as an M3U playlist
+Save project as an XSPF playlist
+Save project as an iriver playlist
+_Cover Editor
+Design and print covers for CDs
+_New Project
+Create a new project
+_Empty Project
+Let you choose your new project
+New _Audio Project
+Create a traditional audio CD that will be playable on computers and stereos
+New _Data Project
+Create a CD/DVD containing any type of data that can only be read on a computer
+New _Video Project
+Create a video DVD or an SVCD that is readable on TV readers
+Copy _Disc…
+Create a 1:1 copy of an audio CD or a data CD/DVD on your hard disk or on another CD/DVD
+_Burn Image…
+Burn an existing CD/DVD image to disc
+_Open…
+Open a project
+No file selected
+Brasero — New Audio Disc Project
+Brasero — New Data Disc Project
+Brasero — New Video Disc Project
+Brasero — New Image File
+Brasero — Disc Copy
+Open Project
+_New
+_Open
+Browse the file system
+Display playlists and their contents
+Video disc (%s)
+Error while loading the project.
+The project could not be opened
+The file is empty
+It does not seem to be a valid Brasero project
+Audi_o project
+Create a traditional audio CD
+D_ata project
+Create a data CD/DVD
+_Video project
+Create a video DVD or an SVCD
+Disc _copy
+Create 1:1 copy of a CD/DVD
+Burn _image
+Last _Unsaved Project
+Load the last project that was not burned and not saved
+No recently used project
+Create a new project:
+Recent projects:
+Insert text
+Delete text
+Substitute text
+Number files according to a pattern
+Insert number sequence at beginning
+Insert
+at the beginning
+at the end
+Delete every occurrence of
+with
+Rename to
+{number}
+%s / %s
+No file
+Start and stop playing
+Title:
+Song start:
+Song end:
+Track length:
+Song information for track %02i
+Do you really want to split the track?
+_Split
+The track wasn't split.
+No silence could be detected
+An error occurred while detecting silences.
+This will remove all previous results.
+Do you really want to carry on with automatic splitting?
+_Don't split
+Do you really want to empty the slices preview?
+Re_move All
+Split Track
+M_ethod:
+Method to be used to split the track
+Split track manually
+Split track in parts with a fixed length
+Split track in a fixed number of parts
+Split track for each silence
+_Slice
+Add a splitting point
+Split this track every
+seconds
+Split this track in
+parts
+Slicing Method
+Start
+End
+Mer_ge
+Merge a selected slice with the next selected one
+Remove the selected slices
+Clear the slices preview
+_List of slices that are to be created:
+Slices Preview
+Hours
+:
+Minutes
+Seconds
+Frames (1 second = 75 frames)
+Open the selected video
+Edit the video information (start, end, author, etc.)
+Remove the selected videos from the project
+Do you want to search for video files inside the directory?
+_Search Directory
+"%s" does not have a suitable type for video projects.
+Please only add files with video content
+File is not a valid .desktop file
+Unrecognized desktop file Version '%s'
+Starting %s
+Application does not accept documents on command line
+Not a launchable item
+Disable connection to session manager
+FILE
+Specify session management ID
+ID
+Session management options:
+Show session management options
+[URI] [URI] …
+Please type "%s --help" to see all available options
+Menu
+Choose
+File exists
+Remove file? [y/N]
+Select a color:
+Error:
+Help
+Okay
+Cancel
+Title:
+Message
+System Testing
+_Test
+_Yes
+_No
+_Skip this test
+Further information:
+_Select All
+_Deselect All
+_Previous
+Ne_xt
+Test to detect audio devices
+https://help.ubuntu.com/community/Installation/SystemRequirements
+Audio tests
+Bluetooth tests
+Camera tests
+Codec tests
+CPU tests
+System Daemon tests
+Disk tests
+eSATA disk tests
+Fingerprint reader tests
+Firewire disk tests
+Floppy disk tests
+Graphics tests
+Hibernation tests
+Informational tests
+Input Devices tests
+Software Installation tests
+Hotkey tests
+LED tests
+Media Card tests
+Memory tests
+Miscellaneous tests
+Monitor tests
+Networking tests
+Optical Drive tests
+Panel Clock Verification tests
+Peripheral tests
+Power Management tests
+Server Services checks
+Suspend tests
+Touchpad tests
+Touchscreen tests
+USB tests
+User Applications
+Wireless networking tests
+Stress tests
+Smoke tests
+Network Information
+Command not found.
+Stock ID '%s' not found
+No command '%s' found, did you mean:
+Do you want to install it? (N/y)
+y
+The program '%s' is currently not installed.
+You can install it by typing:
+Try: %s
+Ask your administrator to install one of them
+%s: command not found
+Python version: %d.%d.%d %s %d
+Close Window
+Shade
+Make Above
+Unmake Above
+The window "%s" is not responding.
+_Force Quit
+Off
+Low
+Normal
+High
+Very High
+Close active window
+Show Desktop
+Desktop Size
+Draw
+Clear
+Blur Filter
+4xBilinear
+Gaussian
+Mipmap
+Gaussian Radius
+Gaussian radius
+Gaussian Strength
+Gaussian strength
+Mipmap LOD
+Mipmap level-of-detail
+Blur Saturation
+Commands
+Command line 1
+Command line 2
+Command line 3
+Command line 4
+Command line 5
+Command line 6
+Command line 7
+Command line 8
+Command line 9
+Command line 10
+Command line 11
+Command line 12
+Command line 13
+Command line 14
+Command line 15
+Command line 16
+Command line 17
+Command line 18
+Command line 19
+Command line 20
+Run command 0
+Run command 1
+Run command 2
+Run command 3
+Run command 4
+Run command 5
+Run command 6
+Run command 7
+Run command 8
+Run command 9
+Run command 10
+Run command 11
+Run command 12
+Run command 13
+Run command 14
+Run command 15
+Run command 16
+Run command 17
+Run command 18
+Run command 19
+Run command 20
+Composite
+Automatic
+Appearance
+Top
+Bottom
+D-Bus
+D-Bus Control Backend
+Window Decoration
+Window decorations
+Command
+Acceleration
+Speed
+`'like this`" and "'
+yes
+no
+(C)(C)
+Report translation bugs to <\.\.\.>
+ss, %g second, %s/s ", ", %g seconds, %s/s
+1K-blocks" header in "df1024-blocks" header in "df -P
+F. Pinard" to "François Pinardç
+%s: remove %s (write-protected) %s?
+it is based on your username
+it is based upon your password entry
+it is derived from your password entry
+it's derived from your password entry
+it is derivable from your password entry
+it's derivable from your password entry
+you are not registered in the password file
+it is WAY too short
+it is too short
+it does not contain enough DIFFERENT characters
+it is all whitespace
+it is based on a dictionary word
+it is based on a (reversed) dictionary word
+error loading dictionary
+Online Accounts
+Grant access
+Options
+Are you sure that you wish to remove this Ubuntu Web Account?
+Add account…
+Run '%s --help' to see a full list of available command line options.
+All applications
+Select to configure a new %s account
+Get/Set server settings
+Privileges are required to get/set server settings.
+Get list of available devices
+Privileges are required to get list of available devices.
+Set a printer as default printer
+Privileges are required to set a printer, or a class, as default printer.
+Enable/Disable a printer
+Privileges are required to enable/disable a printer, or a class.
+Add/Remove/Edit a local printer
+Privileges are required to add/remove/edit a local printer.
+Add/Remove/Edit a remote printer
+Privileges are required to add/remove/edit a remote printer.
+Add/Remove/Edit a class
+Privileges are required to add/remove/edit a class.
+Restart/Cancel/Edit a job
+Privileges are required to restart/cancel/edit a job.
+Restart/Cancel/Edit a job owned by another user
+Privileges are required to restart/cancel/edit a job owned by another user.
+Change printer settings
+Privileges are required to change printer settings. This should only be needed from the Printers system settings panel.
+Add/Remove/Edit a printer
+Privileges are required to add/remove/edit a printer.
+Bad format parameter
+Ok
+Yes
+No
+Cancel
+Not enough resources to create thread
+Ouch! Got SIGTERM, dying..
+Ouch! Got SIGSEGV, dying..
+Ouch! Got SIGABRT, dying..
+Ouch! Got SIGQUIT, dying..
+yes_key
+no_key
+Unable to load filename: the string %ls has no multibyte representation.
+TOP LEVEL
+dconf Editor
+Directly edit your entire configuration database
+settings;configuration;
+Integer [%s..%s]
+Boolean
+String
+Enumeration
+No schema
+Not found
+Copyright © Canonical Ltd
+translator-credits
+Error setting value: %s
+Name
+Value
+Set to Default
+Schema:
+Summary:
+Description:
+Type:
+Default:
+Next
+_About
+_Quit
+The width of the window
+The width of the main window in pixels.
+The height of the window
+The height of the main window in pixels.
+A flag to enable maximized mode
+A flag to enable fullscreen mode
+12 May 2011
+NAME
+SYNOPSIS
+B<add\-shell> I<shellname> [I<shellname>...]
+DESCRIPTION
+B<shells>(5)
+INSTALLKERNEL
+7 Jan 2001
+Debian Linux
+ISCHROOT
+30 May 2011
+Debian
+1
+2
+OPTIONS
+B

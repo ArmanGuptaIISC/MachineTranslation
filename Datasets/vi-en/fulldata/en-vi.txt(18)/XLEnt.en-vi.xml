@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cesAlign PUBLIC "-//CES//DTD XML cesAlign//EN" "http://www.xces.org/dtd/xcesAlign.dtd">
+
+<cesAlign version="1.0">
+ <linkGrp targType="s" fromDoc="en/xlent-v1.2.xml.gz" toDoc="vi/xlent-v1.2.xml.gz">
+  <link xtargets="121;1" />
+  <link xtargets="8;2" />
+ </linkGrp>
+</cesAlign>
